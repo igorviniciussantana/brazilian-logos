@@ -25,6 +25,15 @@ in .SVG and .PNG formats. Enjoy!
     <a href='https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/main/logos/casas-bahia/casas-bahia.png'>Casas Bahia - PNG</a>
     </td>
     </tr>
+     <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/42349da4d0d00ca44b1d2825cc4b45fabba3c692/logos/magazine-luiza/magalu-logo.svg" width='100px' />
+    </td>
+    <td align="center"><a href='https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/42349da4d0d00ca44b1d2825cc4b45fabba3c692/logos/magazine-luiza/magalu-logo.svg'>Magazine Luiza - SVG</a>
+    </td>
+    <td align="center">
+    <a href='https://github.com/igorviniciussantana/brazilian-logos/blob/main/logos/magazine-luiza/magalu-logo-0.png?raw=true'>Magazine Luiza - PNG</a>
+    </td>
+    </tr>
     </table>
 
 
