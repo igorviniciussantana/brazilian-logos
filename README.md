@@ -1,7 +1,7 @@
 <h1>Brazilian Logos</h1>
 
 
-Hi! This is a independent repository where you can find a variety of logotypes of Brazilian Brands! All logos are available
+Hi! This is an independent repository where you can find a variety of logotypes of Brazilian Brands! All logos are available
 in .SVG and .PNG formats. Enjoy!
 
 <h3>Logos</h3>
