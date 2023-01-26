@@ -11,7 +11,7 @@ in .SVG and .PNG formats. Enjoy!
   <tr>
     <td align="center">Marca
     </td>
-    <td align="center">SVG
+    -->
     </td>
     <td align="center">PNG
     </td>
