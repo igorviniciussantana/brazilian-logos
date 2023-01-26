@@ -14,6 +14,8 @@ in .SVG and .PNG formats. Enjoy!
     </td>
     <td align="center">PNG
     </td>
+     <td align="center">SVG
+    </td>
     </tr>
      <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/65fc4db33997b20e2470544ce839bff955686300/logos/casas-bahia/casas-bahia.svg" width='100px' />
@@ -31,6 +33,15 @@ in .SVG and .PNG formats. Enjoy!
     </td>
     <td align="center">
     <a href='https://github.com/igorviniciussantana/brazilian-logos/blob/main/logos/magazine-luiza/magalu-logo-0.png?raw=true'>Magazine Luiza - PNG</a>
+    </td>
+    </tr>
+     <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/825586c4c71fee28501465fd153a7433ea7ae7bc/logos/caixa/caixa-logo.svg" width='100px' />
+    </td>
+    <td align="center"><a href='https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/825586c4c71fee28501465fd153a7433ea7ae7bc/logos/caixa/caixa-logo.svg'>Caixa Econômica - SVG</a>
+    </td>
+    <td align="center">
+    <a href='https://raw.githubusercontent.com/igorviniciussantana/brazilian-logos/main/logos/caixa/caixa-logo.png'>Caixa Econômica - PNG</a>
     </td>
     </tr>
     </table>
